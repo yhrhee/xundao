@@ -1,14 +1,13 @@
 ---
 title: "第一章 耶路撒冷的毁灭"
 summary: "世系-善恶之争"
-date: "Jan 1 2034"
-draft: true
+date: "Mar 18 2024"
+draft: false
 tags:
 - 世系
 - 善恶之争
 demoUrl: https://xdzl.org
 repoUrl: https://xdzl.org/2023/12/27/gc01/
-
 ---
 <center>
 
@@ -18,6 +17,3 @@ repoUrl: https://xdzl.org/2023/12/27/gc01/
 请稍等片刻！
 
 ---
-
-
-
