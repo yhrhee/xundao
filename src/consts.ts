@@ -2,9 +2,9 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
+  TITLE: "寻道",
   DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  AUTHOR: "YH",
 }
 
 // Work Page
@@ -34,7 +34,7 @@ export const SEARCH: Page = {
 // Links
 export const LINKS: Links = [
   { 
-    TEXT: "Home", 
+    TEXT: "主页", 
     HREF: "/", 
   },
   { 
@@ -42,11 +42,11 @@ export const LINKS: Links = [
     HREF: "/work", 
   },
   { 
-    TEXT: "Blog", 
+    TEXT: "查经", 
     HREF: "/blog", 
   },
   { 
-    TEXT: "Projects", 
+    TEXT: "资源", 
     HREF: "/projects", 
   },
 ]
