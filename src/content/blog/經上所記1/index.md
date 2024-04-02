@@ -82,7 +82,7 @@ tags:
 - 因此，没有人认为巴比伦会灭亡。
 - 
 
-![](https://www.vop.or.kr/webbook/itiswritten/img/01/01_i_03.jpg)
+![](https://https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/YHmedia/IIW/1/01_i_03.jpeg)
 
 
 ### 9. 但以理预言巴比伦会发生什么事？
@@ -123,7 +123,7 @@ tags:
 尽管不同的领导人曾多次尝试，但《圣经》预言，从来没有也永远不会再出现一个像罗马帝国那样的国家。西罗马帝国的皇帝查理曼大帝和拿破仑，德国皇帝威廉二世和希特勒都曾试图统一欧洲，但都失败了。 甚至欧洲联盟（欧盟）也未能成功统一欧洲。在第二次世界大战期间，英国传教士通过宣讲《圣经》中希特勒无法统一欧洲的预言引起了人们的注意。 他们的布道准确地诠释了《但以理书》第 2 章中的预言。
 
 
-![](https://www.vop.or.kr/webbook/itiswritten/img/01/01_i_04.gif)
+![](https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/YHmedia/IIW/1/01_i_04.jpeg)
 
 ### 14. 谁将建立最后的王国？
 
