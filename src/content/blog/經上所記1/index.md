@@ -80,9 +80,8 @@ tags:
 - 当时，尼布甲尼撒的巴比伦王国无疑是一个征服世界的强国，它是如此富有，以赛亚先知形容它为 "黄金城"（以赛亚书 14：4）。 
 - 它的城墙高 60 米，宽可容纳两辆战车，城门由坚固的青铜制成，城内囤积着无限的资源。幼发拉底河从巴比伦城中流过，因此无需担心水源问题。 
 - 因此，没有人认为巴比伦会灭亡。
-- 
 
-![](https://https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/YHmedia/IIW/1/01_i_03.jpeg)
+![](https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/YHmedia/IIW/1/01_i_03.jpeg)
 
 
 ### 9. 但以理预言巴比伦会发生什么事？
