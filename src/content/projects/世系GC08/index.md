@@ -1,13 +1,11 @@
 ---
-title: "第一章 耶路撒冷的毁灭"
-summary: "世系-善恶之争"
+title: "第八章 路德在议会前"
+summary: ""
 date: "Mar 18 2024"
 draft: false
 tags:
-- 世系
-- 善恶之争
-demoUrl: https://www.youtube.com/channel/UCe2kKPkwNRC4gbtdm40gPDA
-repoUrl: https://xdzl.org/2023/12/27/gc01/
+- 世系 | 善恶之争
+
 ---
 <center>
 
