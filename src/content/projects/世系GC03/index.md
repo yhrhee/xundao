@@ -5,8 +5,7 @@ date: "Mar 18 2024"
 draft: false
 tags:
 - 世系 | 善恶之争
-demoUrl: https://www.youtube.com/channel/UCe2kKPkwNRC4gbtdm40gPDA
-repoUrl: https://xdzl.org/2023/12/27/gc01/
+
 ---
 <center>
 
