@@ -11,7 +11,7 @@ www.xdzl.org
 
 
 ### Youtube
-www.youtube.com/@xdzl.
+www.youtube.com/@xdzlorg
 
 ### 微信公众号
 Truthtv
