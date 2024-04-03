@@ -10,10 +10,10 @@ tags:
 <center>
 
 <video controls>
-  <source src="mp4" type="video/mp4" />
+  <source src="https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/Truth%20tv/%E5%AD%A6%E8%AF%BE/ssl%20-%20%E4%BD%86%E4%BB%A5%E7%90%86/05.%20From%20pride%20to%20humility.mp4" type="video/mp4" />
   <p>
     Your browser doesn't support HTML5 video. Here is a
-    <a href="mp4">link to the video</a> instead.
+    <a href="https://filedn.com/lASHf0LVqmwBNdJJL6RAY5y/Truth%20tv/%E5%AD%A6%E8%AF%BE/ssl%20-%20%E4%BD%86%E4%BB%A5%E7%90%86/05.%20From%20pride%20to%20humility.mp4">link to the video</a> instead.
   </p>
 </video>
 
