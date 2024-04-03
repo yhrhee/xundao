@@ -4,7 +4,7 @@ summary: ""
 date: "Dec 01 2020"
 draft: false
 tags:
-- 学科|但以理书
+- 学科 | 但以理书
 
 ---
 <center>
